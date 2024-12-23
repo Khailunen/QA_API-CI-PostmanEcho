@@ -1,1 +1,1 @@
-![Build Status](https://github.com/xdan/jodit/workflows/Run%20tests/badge.svg)](https://github.com/xdan/jodit/actions/workflows/tests.yml)
+![Build Status](https://github.com/Khailunen/QA_API-CI-PostmanEcho/workflows/gradle.yml/badge.svg)]
